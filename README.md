@@ -25,3 +25,7 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+- # User Interface
+- <img src="ss/dogglers_ss1.jpeg" alt="UI_1"/>- <img src="ss/dogglers_ss2.jpeg" alt="UI_1"/>
+- <img src="ss/dogglers_ss3.jpeg" alt="UI_1"/>- <img src="ss/dogglers_ss4.jpeg" alt="UI_1"/>
